@@ -87,6 +87,7 @@ Links to these products on Amazon are through affiliate links.
 | [Black Knight (Williams 1980)](external/vpx-blackknight) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Black Knight 2000 (Williams 1989)](external/vpx-blackknight2000) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 46 |
 | [Black Pyramid (Bally 1984)](external/vpx-blackpyramid) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
+| [Black Magic 4 (Recel 1980)](external/vpx-blackmagic4) | :white_check_mark: |:x: | :x: | :x: | 60 |
 | [Black Rose (Bally 1992)](external/vpx-blackrose) | :white_check_mark: |:white_check_mark: | :white_check_mark: | :x: | 50 |
 | [Bram Stoker's Dracula (Williams 1993)](external/vpx-bsdracula) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 50 |
 | [Bugs Bunny's Birthday Ball (Bally 1990)](external/vpx-bugs) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 45 |
@@ -143,7 +144,7 @@ Links to these products on Amazon are through affiliate links.
 | [Ghostbusters Slimer, JP's (Original 2017)](external/vpx-slimerjp) | :white_check_mark: | :white_check_mark: | :x: | :x: | 55 |
 | [Gilligan's Island (Bally 1991)](external/vpx-gilligansisland) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 50 |
 | [Gladiators (Gottlieb 1993)](external/vpx-gladiators) | :white_check_mark: |:white_check_mark: | :white_check_mark: | :x: | 50 |
-| [Godzilla (Sega 1998)](external/vpx-godzilla) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 48 |
+| [Godzilla (Sega 1998)](external/vpx-godzilla) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 58 |
 | [Gold Wings (Gottlieb 1986)](external/vpx-goldwings) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Goldeneye (Sega 1996)](external/vpx-goldeneye) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 48 |
 | [Gorgar (Williams 1979)](external/vpx-gorgar) | :white_check_mark: |:white_check_mark: | :white_check_mark: | :x: | 60 |
@@ -750,7 +751,7 @@ Links to these products on Amazon are through affiliate links.
 | [Water World (Gottlieb 1995)](external/vpx-waterworld) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 46 |
 | [Wayne's World (Original 2020)](external/vpx-waynesworld) | :white_check_mark: | :x: | :white_check_mark: | :x: | 50 |
 | [Wheel of Fortune (Stern 2007)](external/vpx-wof) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 37 |
-| [White Water (Williams 1993)](external/vpx-whitewater) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 40 |
+| [White Water (Williams 1993)](external/vpx-whitewater) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Wild West (Original 2024)](external/vpx-wildwest) | :white_check_mark: | :white_check_mark: | :x: | :x: | 55 |
 | [Willy Wonka Pro (Original 2020)](external/vpx-wonka) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Willy's Wonderland (Original 2021)](external/vpx-willyswonderland) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 45 |

@@ -1,21 +1,19 @@
-﻿# Godzilla (Sega 1998)
+# Black Magic 4 (Recel 1980)
 
-![Table Preview](../../images/vpx-godzilla-preview.jpg)
+![Table Preview](../../images/FD7syId0L--preview.webp)
 
 <br>
 
 ## *️⃣  Table Statistics
 
-| Playfield | Controls | Backglass | DMD | ROM Required | FPS | 
-|-----------|----------|-----------|-----|--------------|-----|
-| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | 58 |
+| Backglass | DMD | ROM Required | Has Puppack | FPS |
+|-----------|-----|-----|-----|-----|
+| ✅ | ❌ | ❌ | ❌ | 60 |
 
 <br>
 
 **VPXS 4KP Testers:**
-  - KaoticBPR
-  - OminousOsie 🌸
-  - kingargyle
+  - evilwraith
 
 <br>
 
@@ -34,9 +32,9 @@ This table is available through the Table Manager Wizard, which makes installati
 1.  Open the **Table Manager**
 2.  Click the **Add Table** button
 3.  Select the **Wizard** tab
-4.  Find and select this table from the dropdown menu: **`Godzilla`**
+4.  Find and select this table from the dropdown menu: **`Black Magic 4 (Recel 1980)`**
 5.  Follow the on-screen instructions to download and upload the required files
-6. *"Size DOES matter!"*
+6. *"'Voodoo? Who do? You do.'"*
 
 <br>
 
@@ -53,6 +51,7 @@ __*We hope you enjoy!!*__
 - Bla1ze           - evilwraith       - Silentkat        
 - mrandromeda      - SScorpio         - pointdablame
 </pre>
+
 
 <br>
 <br>
